@@ -9,6 +9,7 @@ System.out.println("Bienvenido al modulo de operaciones \n Ingrese un número par
 int num3=sc.nextInt();
 
 System.out.println("Ingrese el primer número: ");
+//Agregue un espacio
 		int num1=sc.nextInt();
 System.out.println("Ingrese el segundo número: ");
 		int num2=sc.nextInt();
