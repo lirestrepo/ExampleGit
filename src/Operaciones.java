@@ -25,6 +25,8 @@ public void MostrarNum (int num1,int num2) {
 //	
 //		for(int i=1; i<=100; i++) {
 //		System.out.print(i+" ");
+//		System.out.print(k+" ");
+
 	if (num1>num2) {
 	for(int i = num1+1;  i < num2; i++ )
 	
